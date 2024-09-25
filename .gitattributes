@@ -1,5 +1,5 @@
-*.Power BI linguist-detectable=true  
-*.Excel linguist-detectable=true  
+*.powerbi linguist-detectable=true  
+*.excel linguist-detectable=true  
 *.js linguist-detectable=false  
 *.html linguist-detectable=false  
 *.xml linguist-detectable=false
