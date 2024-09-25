@@ -99,3 +99,7 @@ This dashboard is intended for use by
 * Add filters for more granular analysis based on time periods, product categories, and geographies.
 
 * Integrate forecasting capabilities to predict future sales trends.
+
+  ### Screenshots
+
+  ![WhatsApp Image 2024-09-25 at 6 50 30 PM](https://github.com/user-attachments/assets/e2871443-3e8b-4fd2-aebf-51b860e6ba38)
